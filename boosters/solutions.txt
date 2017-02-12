@@ -1,3 +1,0 @@
-linear_classification: 0.5980
-xgboost_random_oversampling 0.626
-xgboost_without_oversampling_with_weights 0.6170
