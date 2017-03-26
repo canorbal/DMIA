@@ -8,6 +8,8 @@
 
 * ['feature importances' от RF](https://github.com/canorbal/DMIA/blob/master/tinkoff/1_task/feature_importance.ipynb)
 
+* [презентация к семинару DMIA](https://github.com/canorbal/DMIA/blob/master/tinkoff/1_task/tinkoff.pdf)
+
 ***
 
 Также полезно будет:
